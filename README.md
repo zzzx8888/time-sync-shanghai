@@ -1,6 +1,8 @@
 # time-sync-shanghai
 一键更新Linux为中国时间。
 
+此脚本适用于大部分Linux常见发行版。
+
 ## 1.下载/创建脚本
 `curl -o time-sync-shanghai.sh https://raw.githubusercontent.com/zzzx8888/time-sync-shanghai/tree/main/time-sync-shanghai.sh`
 
