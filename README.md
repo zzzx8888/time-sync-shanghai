@@ -4,11 +4,11 @@
 此脚本适用于大部分Linux常见发行版。
 
 ## 1.下载/创建脚本
-`curl -o time-sync-shanghai.sh https://raw.githubusercontent.com/zzzx8888/time-sync-shanghai/tree/main/time-sync-shanghai.sh`
+`curl -o time-sync-shanghai.sh https://github.com/zzzx8888/time-sync-shanghai/blob/main/time-sync-shanghai.sh`
 
 或者
 
-`wget https://raw.githubusercontent.com/zzzx8888/time-sync-shanghai/tree/main/time-sync-shanghai.sh`
+`wget https://github.com/zzzx8888/time-sync-shanghai/blob/main/time-sync-shanghai.sh`
 
 ## 2.添加执行权限
 `chmod +x time-sync-shanghai.sh`
