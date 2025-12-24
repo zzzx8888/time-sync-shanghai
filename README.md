@@ -8,7 +8,7 @@
 
 或者
 
-`wget https://raw.githubusercontent.com/zzzx8888/time-sync-shanghai/refs/heads/main/time-sync-shanghai.sh``
+`wget https://raw.githubusercontent.com/zzzx8888/time-sync-shanghai/refs/heads/main/time-sync-shanghai.sh`
 
 ## 2.添加执行权限
 `chmod +x time-sync-shanghai.sh`
